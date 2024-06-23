@@ -14,6 +14,11 @@ This repository contains the code for a finance website that provides stock data
 - **Your FinCalci:** Estimate potential investment returns using three metrics (min, normal, max).
 - **FAQ Page:** Find answers to common questions about the website.
 
+## Credits
+
+- **Anshaj:** (Me)
+- **Tejash:** (https://github.com/Tejash07)
+
 ## Getting Started
 
 To run the website locally, follow these steps:
