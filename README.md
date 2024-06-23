@@ -19,12 +19,6 @@ This repository contains the code for a finance website that provides stock data
 - **Anshaj:** (Me)
 - **Tejash:** (https://github.com/Tejash07)
 
-## Getting Started
 
-To run the website locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Alphazero99/FinHelp.git
 
 
